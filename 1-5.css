@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #6c6b6b;
+  }
+
+  /*a {
+    text-decoration: none;
+  }*/
+  
+.heading{
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.navi-list{
+  text-align: center;
+  
+}
+
+.navi-list-item{
+  
+  list-style: none;
+  display: inline-block;
+  margin: 15px 20px ;
+
+}
+
+
+.main-content{
+  width: 100%;
+  height: 600px;
+
+}
+
+.main-content-block{
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  list-style: none;
+  font-size: 0;
+  background-color: red;
+}
+
+/*------------------------ブロックゾーン------------------------------*/
+.block-list-1{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #e6ffe9;
+}
+
+.block-list-2{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #cbffd3;
+}
+.block-list-3{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #aeffbd;
+}
+.block-list-4{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #93ffd8;
+}
+.block-list-5{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #f3ffd8;
+}
+.block-list-6{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #edffbe;
+}
+.block-list-7{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #e9ffa5;
+}
+.block-list-8{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #e4ff8d;
+}
+.block-list-9{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #d9e5ff;
+}
+.block-list-10{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #bad3ff;
+}
+.block-list-11{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #a4c6ff;
+}
+.block-list-12{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: #8ebff8;
+}
+
+/*---------------------------------------------------------------*/
+
+.footer{
+  width: 100%;
+  height: 120px;
+  margin-top:50px;
+  background-color: gray;
+}
+
+.footer-text{
+  text-align: center;
+  padding: center;
+  line-height:140px;
+  color: white;
+}
